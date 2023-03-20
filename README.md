@@ -35,4 +35,4 @@ We reserve the right to update or modify this privacy policy at any time. Any ch
 
 ## Contact Us
 
-If you have any questions or concerns about our privacy policy, please contact us on our support server.
+If you have any questions or concerns about our privacy policy, please contact us on our [support server](https://discord.gg/bwAvEtmjgd).
