@@ -1,9 +1,9 @@
 # WordVision Privacy Policy
-#### Last updated: March 17, 2023 at 8:08 EST
+#### Last updated: April 18, 2023 at 12:11 EST
 
 #### Effective: Immediately
 
-At WordVision, we take the privacy of our users very seriously. This privacy policy describes how we collect, use, and protect your personal information when you use our Discord bot, which uses The Discord API, Craiyon API, and OpenAI API.
+At WordVision, we take the privacy of our users very seriously. This privacy policy describes how we collect, use, and protect your personal information when you use our Discord bot, which uses The Discord API and OpenAI API.
 
 ## What Information We Collect
 
