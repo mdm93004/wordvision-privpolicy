@@ -1,5 +1,5 @@
 # WordVision Privacy Policy
-#### Last updated: April 18, 2023 at 12:11 EST
+#### Last updated: April 18, 2023 at 12:11 PM EST
 
 #### Effective: Immediately
 
